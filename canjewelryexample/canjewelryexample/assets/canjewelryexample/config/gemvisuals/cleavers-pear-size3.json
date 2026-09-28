@@ -1,0 +1,15 @@
+{
+  "Group": "examplecleavers",
+  "cut": "pear",
+  "size": 3,
+  "Priority": 100,
+  "Sockets": [
+    {
+      "Translation": { "X": 0.28, "Y": -0.44, "Z": -0.1 },
+      "Rotation": { "X": -90.0, "Y": 0.0, "Z": 45.0 },
+      "Origin": { "X": 0.5, "Y": 0.5, "Z": 0.5 },
+      "Rotate": true,
+      "ScaleXYZ": { "X": 0.25, "Y": 0.25, "Z": 0.25 }
+    }
+  ]
+}

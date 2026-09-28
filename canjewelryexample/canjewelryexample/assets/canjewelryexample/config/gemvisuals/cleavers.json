@@ -1,0 +1,39 @@
+{
+  "defineGroups": {
+    "examplecleavers": [ "game:cleaver-*" ]
+  },
+  "Group": "examplecleavers",
+  "Priority": 100,
+  "Sockets": [
+    {
+      "Translation": { "X": 0.3, "Y": -0.44, "Z": -0.1 },
+      "Rotation": { "X": -90.0, "Y": 0.0, "Z": 0.0 },
+      "Origin": { "X": 0.5, "Y": 0.5, "Z": 0.5 },
+      "Rotate": true,
+      "ScaleXYZ": { "X": 0.3, "Y": 0.3, "Z": 0.3 }
+    },
+    {
+      "Translation": { "X": 0.4, "Y": -0.44, "Z": -0.1 },
+      "Rotation": { "X": -90.0, "Y": 0.0, "Z": 0.0 },
+      "Origin": { "X": 0.5, "Y": 0.5, "Z": 0.5 },
+      "Rotate": true,
+      "ScaleXYZ": { "X": 0.3, "Y": 0.3, "Z": 0.3 }
+    }
+  ],
+  "socketsBack": [
+    {
+      "Translation": { "X": 0.3, "Y": -0.44, "Z": -0.11 },
+      "Rotation": { "X": -90.0, "Y": 0.0, "Z": 0.0 },
+      "Origin": { "X": 0.5, "Y": 0.5, "Z": 0.5 },
+      "Rotate": true,
+      "ScaleXYZ": { "X": 0.3, "Y": 0.3, "Z": 0.3 }
+    },
+    {
+      "Translation": { "X": 0.4, "Y": -0.44, "Z": -0.11 },
+      "Rotation": { "X": -90.0, "Y": 0.0, "Z": 0.0 },
+      "Origin": { "X": 0.5, "Y": 0.5, "Z": 0.5 },
+      "Rotate": true,
+      "ScaleXYZ": { "X": 0.3, "Y": 0.3, "Z": 0.3 }
+    }
+  ]
+}

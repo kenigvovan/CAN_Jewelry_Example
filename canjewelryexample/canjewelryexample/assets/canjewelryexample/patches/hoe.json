@@ -1,0 +1,13 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/attributes",
+    "file": "game:itemtypes/tool/hoe.json",
+    "dependsOn": [ { "modid": "canjewelry" } ],
+    "value": {
+      "cansocketstiers": [ 2, 3 ],
+      "canGemGroups": [ "mining", "melee" ],
+      "canAllowedGems": [ "diamond", "topazblue", "malachite" ]
+    }
+  }
+]

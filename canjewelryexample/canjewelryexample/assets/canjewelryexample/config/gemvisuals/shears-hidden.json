@@ -1,0 +1,5 @@
+{
+  "Match": [ "game:shears-*" ],
+  "Priority": 100,
+  "hidden": true
+}

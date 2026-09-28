@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="canjewelryexample/canjewelryexample/canjewelryexample.csproj" />
+  <Project Path="canjewelryexample/ZZCakeBuild/CakeBuild.csproj" />
+</Solution>
