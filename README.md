@@ -26,8 +26,8 @@ Key points shown in the code:
 ## Documentation
 
 The full integration guide — socket tiers, gem groups, gem codes, the `gemvisuals` rule format and
-rule priority, and the in-game debug tool for tuning gem poses — is in
-[`WIKI.md`](canjewelryexample/canjewelryexample/WIKI.md).
+rule priority, and the in-game debug tool for tuning gem poses — is in the
+[project wiki](https://github.com/kenigvovan/canjewelryexample/wiki).
 
 ## Project structure
 
@@ -36,7 +36,6 @@ canjewelryexample/
 ├── canjewelryexample/            # the mod
 │   ├── canjewelryexampleModSystem.cs
 │   ├── modinfo.json
-│   ├── WIKI.md
 │   └── assets/canjewelryexample/
 │       ├── patches/              # JSON patches for vanilla items
 │       ├── config/gemvisuals/    # gem placement rules
