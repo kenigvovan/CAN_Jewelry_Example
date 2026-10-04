@@ -42,7 +42,3 @@ canjewelryexample/
 │       └── lang/
 └── ZZCakeBuild/
 ```
-
-## Author
-
-KenigVovan
