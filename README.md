@@ -1,11 +1,11 @@
-# C&N Jewelry — compatibility example
+# C&N Jewelry compatibility example
 
 A small [Vintage Story](https://www.vintagestory.at/) mod that shows how a third-party mod can
 integrate with **[C&N Jewelry](https://mods.vintagestory.at/canjewelry)**: give its own (or vanilla) items gem sockets, choose which gems fit
 into them, and control where the gems are drawn on the item model.
 
 It serves as a reference implementation for mod authors and covers both integration paths that
-C&N Jewelry offers — **JSON asset patches** and the **C# registry API**.
+C&N Jewelry offers: **JSON asset patches** and the **C# registry API**.
 
 ## What it demonstrates
 
@@ -25,9 +25,9 @@ Key points shown in the code:
 
 ## Documentation
 
-The full integration guide — socket tiers, gem groups, gem codes, the `gemvisuals` rule format and
-rule priority, and the in-game debug tool for tuning gem poses — is in the
-[project wiki](https://github.com/kenigvovan/canjewelryexample/wiki).
+The full integration guide is in the [project wiki](https://github.com/kenigvovan/canjewelryexample/wiki).
+It covers socket tiers, gem groups, gem codes, the `gemvisuals` rule format and rule priority,
+and the in-game debug tool for tuning gem poses.
 
 ## Project structure
 
